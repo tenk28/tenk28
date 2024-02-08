@@ -7,13 +7,7 @@
 <p align="center">
   <b>Contact me on</b>
   <br>
-  <a href="https://t.me/DmytroShtrikkerWork" alt="My telegram">
-    <img width="32" height="32" src="https://web.telegram.org/k/assets/img/favicon-32x32.png?v=jw3mK7G9Ry"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dmytro-shtrikker" alt="My Linkedin">
-    <img width="32" height="32" src="https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo"/>
-  </a>
-  <a href="mailto:shtrikker28@gmail.com" alt="My Linkedin">
-    <img width="32" height="32" src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_32dp.png"/>
-  </a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FDmytroShtrikkerWork">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Ashtrikker28%40gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmytro-shtrikker">
 </p>
