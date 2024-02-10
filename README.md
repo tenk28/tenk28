@@ -66,3 +66,8 @@
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkdin">
   </a>
 </div>
+
+<br><hr>
+<a href="https://stand-with-ukraine.pp.ua">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+</a>
