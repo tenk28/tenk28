@@ -22,37 +22,6 @@
   <li> 🎯 Career goals include exploring diverse domains and continuously learning new tools</li>
 </ul>
 
-<h1>🛠️ Languages and tools:</h1>
-<ul>
-  <li>Languages:</li>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="C language" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" width="40" height="40">
-  
-  <li>Control version platforms:</li>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" title="Gitlab" width="40" height="40">
-
-  <li>Development platforms:</li>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="Linux" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg" title="Windows" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40">
-  
-  <li>Other tools:</li>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cmake/cmake-original.svg" title="Cmake" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/qt/qt-original.svg" title="Qt" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" title="Docker" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" title="Jira" width="40" height="40">
-</ul>
-
-<h1>🔥 My stats:</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=tenk28&theme=dracula&show_icons=true&show=reviews&hide=issues,stars">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenk28&theme=dracula&layout=donut">
-
 <h1>📫 Contact me</h1>
 <div align="center">
   <p><b>Open to hire 😉</b></p>
